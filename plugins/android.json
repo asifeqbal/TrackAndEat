@@ -37,10 +37,10 @@
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.trackandeat.app"
     },
-    "cordova-plugin-splashscreen": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.trackandeat.app"
     },
-    "cordova-plugin-whitelist": {
+    "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "com.trackandeat.app"
     }
   },
